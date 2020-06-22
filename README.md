@@ -57,6 +57,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [Getting Started With Gatsbyjs - Live Coding](https://www.youtube.com/watch?v=nufLF1kcn_4&feature=youtu.be)
 * [Improving Gatsby Blog Deploy UX](https://benmccormick.org/2017/11/07/blog-deploy-ux/)
 * [Add a chat widget to your Gatsby blog](https://pusher.com/tutorials/chat-gatsby/)
+* [Blogging with Jamify (Gatsby + Ghost CMS)](https://www.jamify.org/)
 
 ### Inspiration
 
@@ -70,6 +71,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 #### Themes
 * [Gatsby Manor: themes for GatsbyJS](https://gatsbymanor.com)
+* [Jamify Theme: Flaring fast blogs with Gatsby and Ghost](https://github.com/styxlab/gatsby-theme-try-ghost)
 
 #### Sites built with Gatsby (source code included)
 
